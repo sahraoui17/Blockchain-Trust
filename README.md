@@ -1,7 +1,7 @@
 # Introcution
 Blockchain-Trust is Trust management for IoT devices based on Blockchain. 
-Simulated trust ratings and reputation system that is scored in persistent Blockchain.
-This project contains several classes that can run on top of iFogSim simulator to simulation trust management in IoT enviroment.
+Devices' trust ratings and reputation scores are scored in persistent Blockchain.
+The project contains several classes that can run on top of iFogSim simulator to simulate trust management in IoT enviroment.
 
 ##Supported trust attacks
 You can use this project to simulate trust based attack such as good-mouthing attack and bad-mouthing attack.
